@@ -1,0 +1,6 @@
+.vs/
+bin/
+BookStoreManager.csproj/
+.git/
+obj/
+BookStoreApp.sln/
